@@ -1,0 +1,731 @@
+Ticket 1 added by vendor 
+
+Vendor added Ticket 1
+Customer 1 bought Ticket 1
+Ticket 2 added by vendor 
+
+Vendor added Ticket 2
+Customer 1 bought Ticket 2
+Ticket 3 added by vendor 
+
+Vendor added Ticket 3
+Customer 1 bought Ticket 3
+Ticket 4 added by vendor 
+
+Customer 1 bought Ticket 4
+Vendor added Ticket 4
+Ticket 5 added by vendor 
+
+Vendor added Ticket 5
+Customer 1 bought Ticket 5
+Ticket 6 added by vendor 
+
+Customer 1 bought Ticket 6
+Vendor added Ticket 6
+Ticket 7 added by vendor 
+
+Vendor added Ticket 7
+Customer 1 bought Ticket 7
+Ticket 8 added by vendor 
+
+Vendor added Ticket 8
+Customer 1 bought Ticket 8
+Ticket 9 added by vendor 
+
+Vendor added Ticket 9
+Customer 1 bought Ticket 9
+Ticket 10 added by vendor 
+
+Customer 1 bought Ticket 10
+Vendor added Ticket 10
+Ticket 1 added by vendor 
+
+Vendor added Ticket 1
+Customer 2 bought Ticket 1
+Ticket 2 added by vendor 
+
+Vendor added Ticket 2
+Customer 2 bought Ticket 2
+Ticket 3 added by vendor 
+
+Vendor added Ticket 3
+Customer 2 bought Ticket 3
+Ticket 4 added by vendor 
+
+Customer 2 bought Ticket 4
+Vendor added Ticket 4
+Ticket 5 added by vendor 
+
+Vendor added Ticket 5
+Customer 2 bought Ticket 5
+Ticket 6 added by vendor 
+
+Vendor added Ticket 6
+Customer 2 bought Ticket 6
+Vendor interrupted.
+Customer 2 interrupted.
+Ticket 1 added by vendor 
+
+Vendor added Ticket 1
+Customer 2 bought Ticket 1
+Ticket 2 added by vendor 
+
+Customer 2 bought Ticket 2
+Vendor added Ticket 2
+Ticket 3 added by vendor 
+
+Vendor added Ticket 3
+Customer 2 bought Ticket 3
+Ticket 4 added by vendor 
+
+Customer 2 bought Ticket 4
+Vendor added Ticket 4
+Ticket 5 added by vendor 
+
+Vendor added Ticket 5
+Customer 2 bought Ticket 5
+Vendor interrupted.
+Customer 2 interrupted.
+Ticket 1 added by vendor 
+
+Vendor added Ticket 1
+Ticket 2 added by vendor 
+
+Vendor added Ticket 2
+Ticket 3 added by vendor 
+
+Vendor added Ticket 3
+Ticket 4 added by vendor 
+
+Vendor added Ticket 4
+Vendor interrupted.
+Ticket 1 added by vendor 
+
+Vendor added Ticket 1
+Customer 2 bought Ticket 1
+Ticket 2 added by vendor 
+
+Vendor added Ticket 2
+Customer 2 bought Ticket 2
+Ticket 3 added by vendor 
+
+Vendor added Ticket 3
+Customer 2 bought Ticket 3
+Ticket 4 added by vendor 
+
+Vendor added Ticket 4
+Customer 2 bought Ticket 4
+Ticket 5 added by vendor 
+
+Vendor added Ticket 5
+Customer 2 bought Ticket 5
+Ticket 6 added by vendor 
+
+Customer 2 bought Ticket 6
+Vendor added Ticket 6
+Ticket 7 added by vendor 
+
+Vendor added Ticket 7
+Customer 2 bought Ticket 7
+Ticket 8 added by vendor 
+
+Customer 2 bought Ticket 8
+Vendor added Ticket 8
+Ticket 9 added by vendor 
+
+Vendor added Ticket 9
+Customer 2 bought Ticket 9
+Ticket 10 added by vendor 
+
+Vendor added Ticket 10
+Customer 2 bought Ticket 10
+Ticket 11 added by vendor 
+
+Vendor added Ticket 11
+Customer 2 bought Ticket 11
+Ticket 12 added by vendor 
+
+Vendor added Ticket 12
+Customer 2 bought Ticket 12
+Ticket 13 added by vendor 
+
+Customer 2 bought Ticket 13
+Vendor added Ticket 13
+Ticket 14 added by vendor 
+
+Vendor added Ticket 14
+Customer 2 bought Ticket 14
+Ticket 15 added by vendor 
+
+Customer 2 bought Ticket 15
+Vendor added Ticket 15
+Ticket 16 added by vendor 
+
+Customer 2 bought Ticket 16
+Vendor added Ticket 16
+Ticket 17 added by vendor 
+
+Vendor added Ticket 17
+Customer 2 bought Ticket 17
+Ticket 18 added by vendor 
+
+Vendor added Ticket 18
+Customer 2 bought Ticket 18
+Ticket 19 added by vendor 
+
+Customer 2 bought Ticket 19
+Vendor added Ticket 19
+Ticket 20 added by vendor 
+
+Customer 2 bought Ticket 20
+Vendor added Ticket 20
+Ticket 21 added by vendor 
+
+Vendor added Ticket 21
+Customer 2 bought Ticket 21
+Ticket 22 added by vendor 
+
+Customer 2 bought Ticket 22
+Vendor added Ticket 22
+Ticket 23 added by vendor 
+
+Vendor added Ticket 23
+Customer 2 bought Ticket 23
+Ticket 24 added by vendor 
+
+Vendor added Ticket 24
+Customer 2 bought Ticket 24
+Ticket 25 added by vendor 
+
+Vendor added Ticket 25
+Customer 2 bought Ticket 25
+Ticket 26 added by vendor 
+
+Customer 2 bought Ticket 26
+Vendor added Ticket 26
+Ticket 27 added by vendor 
+
+Vendor added Ticket 27
+Customer 2 bought Ticket 27
+Ticket 28 added by vendor 
+
+Customer 2 bought Ticket 28
+Vendor added Ticket 28
+Ticket 29 added by vendor 
+
+Customer 2 bought Ticket 29
+Vendor added Ticket 29
+Ticket 30 added by vendor 
+
+Vendor added Ticket 30
+Customer 2 bought Ticket 30
+Ticket 31 added by vendor 
+
+Customer 2 bought Ticket 31
+Vendor added Ticket 31
+Ticket 32 added by vendor 
+
+Customer 2 bought Ticket 32
+Vendor added Ticket 32
+Ticket 33 added by vendor 
+
+Vendor added Ticket 33
+Customer 2 bought Ticket 33
+Vendor interrupted.
+Customer 2 interrupted.
+Queue full. Vendor waiting..
+
+Queue full. Vendor waiting..
+
+Vendor added Ticket 1
+Customer 2 interrupted.
+Vendor interrupted.
+Queue full. Vendor waiting..
+
+Ticket 2 added by vendor 
+
+Ticket 1 added by vendor 
+
+Vendor added Ticket 2
+Ticket 3 added by vendor 
+
+Vendor added Ticket 1
+Vendor added Ticket 3
+Customer 2 bought Ticket 1
+Customer 1 bought Ticket 2
+Customer 2 bought Ticket 3
+Ticket 4 added by vendor 
+
+Vendor added Ticket 4
+Customer 1 bought Ticket 4
+Ticket 5 added by vendor 
+
+Vendor added Ticket 5
+Ticket 6 added by vendor 
+
+Customer 2 bought Ticket 5
+Customer 1 bought Ticket 6
+Vendor added Ticket 6
+Ticket 7 added by vendor 
+
+Vendor added Ticket 7
+Customer 2 bought Ticket 7
+Ticket 8 added by vendor 
+
+Customer 1 bought Ticket 8
+Vendor added Ticket 8
+Ticket 9 added by vendor 
+
+Vendor added Ticket 9
+Customer 2 bought Ticket 9
+Ticket 10 added by vendor 
+
+Vendor added Ticket 10
+Customer 1 bought Ticket 10
+Ticket 11 added by vendor 
+
+Customer 2 bought Ticket 11
+Vendor added Ticket 11
+Ticket 12 added by vendor 
+
+Vendor added Ticket 12
+Customer 1 bought Ticket 12
+Vendor interrupted.
+Customer 1 interrupted.
+Vendor interrupted.
+Vendor interrupted.
+Customer 2 interrupted.
+Ticket 1 added by vendor 
+
+Ticket 2 added by vendor 
+
+Vendor added Ticket 1
+Ticket 3 added by vendor 
+
+Vendor added Ticket 3
+Vendor added Ticket 2
+Ticket 4 added by vendor 
+
+Vendor added Ticket 4
+Customer 1 bought Ticket 1
+Customer 3 bought Ticket 3
+Customer 2 bought Ticket 2
+Customer 1 bought Ticket 4
+Ticket 5 added by vendor 
+
+Vendor added Ticket 5
+Customer 3 bought Ticket 5
+Ticket 6 added by vendor 
+
+Vendor added Ticket 6
+Customer 2 bought Ticket 6
+Ticket 7 added by vendor 
+
+Vendor added Ticket 7
+Ticket 8 added by vendor 
+
+Vendor added Ticket 8
+Customer 3 bought Ticket 8
+Customer 1 bought Ticket 7
+Ticket 9 added by vendor 
+
+Customer 2 bought Ticket 9
+Vendor added Ticket 9
+Ticket 10 added by vendor 
+
+Vendor added Ticket 10
+Customer 2 bought Ticket 10
+Ticket 11 added by vendor 
+
+Vendor added Ticket 11
+Ticket 12 added by vendor 
+
+Vendor added Ticket 12
+Customer 1 bought Ticket 11
+Customer 2 bought Ticket 12
+Ticket 1 added by vendor 
+
+Vendor added Ticket 1
+Customer 1 bought Ticket 1
+Ticket 2 added by vendor 
+
+Customer 2 bought Ticket 2
+Vendor added Ticket 2
+Ticket 3 added by vendor 
+
+Customer 3 bought Ticket 3
+Vendor added Ticket 3
+Ticket 4 added by vendor 
+
+Vendor added Ticket 4
+Customer 1 bought Ticket 4
+Ticket 5 added by vendor 
+
+Vendor added Ticket 5
+Customer 2 bought Ticket 5
+Ticket 6 added by vendor 
+
+Vendor added Ticket 6
+Customer 3 bought Ticket 6
+Ticket 7 added by vendor 
+
+Vendor added Ticket 7
+Customer 1 bought Ticket 7
+Ticket 8 added by vendor 
+
+Vendor added Ticket 8
+Customer 2 bought Ticket 8
+Ticket 9 added by vendor 
+
+Vendor added Ticket 9
+Customer 3 bought Ticket 9
+Ticket 10 added by vendor 
+
+Customer 1 bought Ticket 10
+Vendor added Ticket 10
+Ticket 11 added by vendor 
+
+Vendor added Ticket 11
+Customer 2 bought Ticket 11
+Ticket 12 added by vendor 
+
+Vendor added Ticket 12
+Customer 3 bought Ticket 12
+Vendor interrupted.
+Customer 1 interrupted.
+Customer 2 interrupted.
+Customer 3 interrupted.
+Ticket 1 added by vendor 
+
+Ticket 2 added by vendor 
+
+Ticket 3 added by vendor 
+
+Vendor added Ticket 3
+Vendor added Ticket 2
+Vendor added Ticket 1
+Customer 2 bought Ticket 2
+Customer 1 bought Ticket 1
+Customer 1 bought Ticket 3
+Ticket 4 added by vendor 
+
+Vendor added Ticket 4
+Ticket 5 added by vendor 
+
+Vendor added Ticket 5
+Customer 2 bought Ticket 4
+Ticket 6 added by vendor 
+
+Vendor added Ticket 6
+Customer 1 bought Ticket 5
+Customer 2 bought Ticket 6
+Ticket 7 added by vendor 
+
+Vendor added Ticket 7
+Ticket 8 added by vendor 
+
+Vendor added Ticket 8
+Customer 1 bought Ticket 7
+Customer 2 bought Ticket 8
+Ticket 9 added by vendor 
+
+Customer 1 bought Ticket 9
+Vendor added Ticket 9
+Ticket 10 added by vendor 
+
+Vendor added Ticket 10
+Customer 2 bought Ticket 10
+Ticket 11 added by vendor 
+
+Vendor added Ticket 11
+Customer 1 bought Ticket 11
+Ticket 12 added by vendor 
+
+Customer 2 bought Ticket 12
+Vendor added Ticket 12
+Ticket 13 added by vendor 
+
+Vendor added Ticket 13
+Customer 1 bought Ticket 13
+Ticket 14 added by vendor 
+
+Customer 2 bought Ticket 14
+Vendor added Ticket 14
+Ticket 15 added by vendor 
+
+Customer 1 bought Ticket 15
+Vendor added Ticket 15
+Ticket 16 added by vendor 
+
+Vendor added Ticket 16
+Customer 2 bought Ticket 16
+Ticket 17 added by vendor 
+
+Vendor added Ticket 17
+Customer 1 bought Ticket 17
+Ticket 18 added by vendor 
+
+Vendor added Ticket 18
+Customer 2 bought Ticket 18
+Ticket 19 added by vendor 
+
+Vendor added Ticket 19
+Customer 1 bought Ticket 19
+Ticket 20 added by vendor 
+
+Customer 2 bought Ticket 20
+Vendor added Ticket 20
+Ticket 21 added by vendor 
+
+Vendor added Ticket 21
+Customer 1 bought Ticket 21
+Ticket 22 added by vendor 
+
+Vendor added Ticket 22
+Customer 2 bought Ticket 22
+Ticket 23 added by vendor 
+
+Customer 1 bought Ticket 23
+Vendor added Ticket 23
+Ticket 24 added by vendor 
+
+Vendor added Ticket 24
+Customer 2 bought Ticket 24
+Ticket 25 added by vendor 
+
+Vendor added Ticket 25
+Customer 1 bought Ticket 25
+Ticket 26 added by vendor 
+
+Customer 2 bought Ticket 26
+Vendor added Ticket 26
+Ticket 27 added by vendor 
+
+Vendor added Ticket 27
+Customer 1 bought Ticket 27
+Ticket 28 added by vendor 
+
+Customer 2 bought Ticket 28
+Vendor added Ticket 28
+Ticket 29 added by vendor 
+
+Vendor added Ticket 29
+Customer 1 bought Ticket 29
+Ticket 30 added by vendor 
+
+Customer 2 bought Ticket 30
+Vendor added Ticket 30
+Ticket 31 added by vendor 
+
+Customer 1 bought Ticket 31
+Vendor added Ticket 31
+Ticket 32 added by vendor 
+
+Customer 2 bought Ticket 32
+Vendor added Ticket 32
+Ticket 33 added by vendor 
+
+Vendor added Ticket 33
+Customer 1 bought Ticket 33
+Ticket 34 added by vendor 
+
+Vendor added Ticket 34
+Customer 2 bought Ticket 34
+Ticket 35 added by vendor 
+
+Vendor added Ticket 35
+Customer 1 bought Ticket 35
+Ticket 36 added by vendor 
+
+Vendor added Ticket 36
+Customer 2 bought Ticket 36
+Ticket 37 added by vendor 
+
+Vendor added Ticket 37
+Customer 1 bought Ticket 37
+Ticket 38 added by vendor 
+
+Vendor added Ticket 38
+Customer 2 bought Ticket 38
+Ticket 39 added by vendor 
+
+Vendor added Ticket 39
+Customer 1 bought Ticket 39
+Ticket 40 added by vendor 
+
+Vendor added Ticket 40
+Customer 2 bought Ticket 40
+Ticket 41 added by vendor 
+
+Vendor added Ticket 41
+Customer 1 bought Ticket 41
+Ticket 42 added by vendor 
+
+Vendor added Ticket 42
+Customer 2 bought Ticket 42
+Ticket 2 added by vendor 
+
+Vendor added Ticket 2
+Ticket 1 added by vendor 
+
+Vendor added Ticket 1
+Ticket 3 added by vendor 
+
+Vendor added Ticket 3
+Customer 1 bought Ticket 2
+Customer 2 bought Ticket 1
+Customer 1 bought Ticket 3
+Ticket 4 added by vendor 
+
+Vendor added Ticket 4
+Customer 2 bought Ticket 4
+Ticket 6 added by vendor 
+
+Vendor added Ticket 6
+Vendor added Ticket 5
+Customer 1 bought Ticket 6
+Vendor added Ticket 7
+Vendor added Ticket 8
+Vendor added Ticket 9
+Vendor interrupted.
+Vendor interrupted.
+Customer 1 interrupted.
+Vendor interrupted.
+Customer 2 interrupted.
+Ticket 1 added by vendor 
+
+Vendor added Ticket 1
+Ticket 2 added by vendor 
+
+Vendor added Ticket 2
+Queue full. Vendor waiting..
+
+Ticket 3 added by vendor 
+
+Vendor added Ticket 3
+Customer 1 bought Ticket 1
+Customer 2 bought Ticket 2
+Customer 2 bought Ticket 3
+Vendor interrupted.
+Customer 1 interrupted.
+Customer 2 interrupted.
+Vendor interrupted.
+Vendor interrupted.
+Ticket 3 added by vendor 
+
+Ticket 2 added by vendor 
+
+Vendor added Ticket 2
+Ticket 1 added by vendor 
+
+Vendor added Ticket 1
+Vendor added Ticket 3
+Customer 1 bought Ticket 3
+Customer 2 bought Ticket 2
+Customer 1 bought Ticket 1
+Ticket 4 added by vendor 
+
+Vendor added Ticket 4
+Ticket 5 added by vendor 
+
+Vendor added Ticket 5
+Customer 2 bought Ticket 4
+Customer 1 bought Ticket 5
+Vendor added Ticket 6
+Vendor added Ticket 7
+Vendor added Ticket 8
+Vendor added Ticket 9
+Vendor added Ticket 10
+Vendor added Ticket 12
+Vendor added Ticket 11
+Vendor interrupted.
+Customer 1 interrupted.
+Vendor interrupted.
+Vendor interrupted.
+Customer 2 interrupted.
+Ticket 1 added by vendor 
+
+Ticket 2 added by vendor 
+
+Vendor added Ticket 2
+Vendor added Ticket 1
+Ticket 3 added by vendor 
+
+Vendor added Ticket 3
+Customer 2 bought Ticket 1
+Customer 1 bought Ticket 2
+Customer 2 bought Ticket 3
+Ticket 4 added by vendor 
+
+Vendor added Ticket 4
+Ticket 5 added by vendor 
+
+Customer 1 bought Ticket 4
+Customer 2 bought Ticket 5
+Vendor added Ticket 5
+Vendor added Ticket 6
+Vendor added Ticket 7
+Vendor added Ticket 8
+Vendor added Ticket 9
+Vendor interrupted.
+Customer 1 interrupted.
+Customer 2 interrupted.
+Vendor interrupted.
+Vendor interrupted.
+Ticket 3 added by vendor 
+
+Ticket 1 added by vendor 
+
+Vendor added Ticket 1
+Vendor added Ticket 3
+Ticket 2 added by vendor 
+
+Vendor added Ticket 2
+Customer 2 bought Ticket 1
+Customer 1 bought Ticket 3
+Customer 2 bought Ticket 2
+Ticket 4 added by vendor 
+
+Customer 1 bought Ticket 4
+Ticket 5 added by vendor 
+
+Vendor added Ticket 5
+Vendor added Ticket 4
+Ticket 6 added by vendor 
+
+Vendor added Ticket 6
+Customer 1 bought Ticket 6
+Customer 2 bought Ticket 5
+Ticket 7 added by vendor 
+
+Vendor added Ticket 7
+Ticket 9 added by vendor 
+
+Vendor added Ticket 9
+Ticket 8 added by vendor 
+
+Vendor added Ticket 8
+Customer 2 bought Ticket 9
+Customer 2 bought Ticket 8
+Customer 1 bought Ticket 7
+Ticket 10 added by vendor 
+
+Vendor added Ticket 10
+Customer 2 bought Ticket 10
+Vendor added Ticket 11
+Vendor added Ticket 12
+Vendor added Ticket 13
+Vendor added Ticket 14
+Vendor added Ticket 15
+Vendor added Ticket 16
+Vendor added Ticket 17
+Vendor added Ticket 18
+Vendor added Ticket 2
+Vendor added Ticket 3
+Vendor added Ticket 1
+Vendor added Ticket 4
+Vendor added Ticket 6
+Vendor added Ticket 5
+Vendor added Ticket 9
+Vendor added Ticket 8
+Vendor added Ticket 7
